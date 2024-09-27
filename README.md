@@ -3,15 +3,11 @@
 Welcome to my deep learning project repository. This repository contains various projects that demonstrate my work with neural networks and deep learning techniques.
 
 ## Projects
-### 1. [Project 1 Title](link_to_project1)
-   - **Description**: Brief explanation of what the project is about.
-   - **Technologies**: PyTorch, TensorFlow, Keras, etc.
-   - **Key Topics**: CNN, RNN, transfer learning, etc.
+### 1. [Breast_Cancer_Prediction](./Logistic-Regression-Breast-Cancer)
+   - **Description**: Predicting breast cancer (benign or malignant) using Logistic Regression.
+   - **Technologies**: matplot and seaborn for visualization, pandas, numpy.
+   - **Key Topics**: Logistic Regression, Gradient descent.
    
-### 2. [Project 2 Title](link_to_project2)
-   - **Description**: Brief explanation of what the project is about.
-   - **Technologies**: PyTorch, TensorFlow, Keras, etc.
-   - **Key Topics**: GANs, reinforcement learning, etc.
 
 ## Installation
 To clone the repository:

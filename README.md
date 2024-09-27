@@ -13,3 +13,6 @@ Welcome to my deep learning project repository. This repository contains various
 To clone the repository:
 ```bash
 git clone https://github.com/YOUR_GITHUB_USERNAME/deep-learning-projects.git
+```
+
+***If you find any of these projects helpful, please consider giving it a ⭐!***

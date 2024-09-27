@@ -83,7 +83,3 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 - Implement logistic regression using **Scikit-learn** and compare its performance with the scratch implementation.
 - Extend the project to handle **multi-class classification**.
 
-## License
-
-This project is licensed under the MIT License.
-

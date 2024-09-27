@@ -60,7 +60,7 @@ This high accuracy, precision, recall, and F1-score indicates the model's strong
 Install the required Python libraries before running the notebook:
 
 ```bash
-pip install numpy pandas matplotlib scikit-learn
+pip install numpy pandas matplotlib seaborn scikit-learn
 ```
 
 ## How to Run

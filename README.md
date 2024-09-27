@@ -12,7 +12,7 @@ Welcome to my deep learning project repository. This repository contains various
 ## Installation
 To clone the repository:
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/deep-learning-projects.git
+git clone https://github.com/ArashAzhand/Deep_Learning_Projects.git
 ```
 
 ***If you find any of these projects helpful, please consider giving it a ⭐!***

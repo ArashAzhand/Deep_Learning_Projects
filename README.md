@@ -7,6 +7,11 @@ Welcome to my deep learning project repository. This repository contains various
    - **Description**: Predicting breast cancer (benign or malignant) using Logistic Regression.
    - **Technologies**: matplot and seaborn for visualization, pandas, numpy.
    - **Key Topics**: Logistic Regression, Gradient descent.
+
+### 2. [Student_Score_Prediction](./Neural_Networks_Student_Score_Prediction)
+   - **Description**: Predicting Students' score using neural networks.
+   - **Technologies**: Tensorflow, pandas, matplot, numpy.
+   - **Key Topics**: Neural Networks, ADAM Optimizer.
    
 
 ## Installation

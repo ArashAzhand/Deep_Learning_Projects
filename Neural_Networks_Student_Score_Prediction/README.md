@@ -70,8 +70,8 @@ pip install numpy pandas tensorflow matplotlib scikit-learn
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ArashAzhand/Deep_Learning_Projects/Neural_Networks_Student_Score_Prediction.git
-   cd student-score-prediction
+   git clone https://github.com/ArashAzhand/Deep_Learning_Projects.git
+   cd Neural_Networks_Student_Score_Prediction
    ```
 2. Install the required dependencies using `pip`.
 3. Launch Jupyter Notebook:

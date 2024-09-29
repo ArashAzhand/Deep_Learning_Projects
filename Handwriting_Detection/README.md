@@ -72,6 +72,3 @@ This project focuses on classifying handwritten symbols using a convolutional ne
 - **Data Augmentation**: Future improvements could include applying data augmentation techniques to enhance the model's robustness.
 - **Experiment Tracking**: Tracking different configurations using **wandb** helped identify the optimal learning rate and other hyperparameters.
 
-## Acknowledgments
-
-This project is a practical implementation of convolutional neural networks for multi-class classification. The dataset and problem statement provided valuable insights into handwriting recognition tasks.

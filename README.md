@@ -12,6 +12,11 @@ Welcome to my deep learning project repository. This repository contains various
    - **Description**: Predicting Students' score using neural networks.
    - **Technologies**: Tensorflow, pandas, matplot, numpy.
    - **Key Topics**: Neural Networks, ADAM Optimizer.
+
+### 3. [Handwriting Detection](./Handwriting_Detection)
+   - **Description**: Detecting handwriting using convolutional layers.
+   - **Technologies**: pytorch, torchvision, matplot, scikit-learn, numpy, wandb.
+   - **Key Topics**: Convolutional layer, Hyperparameter tuning with wandb. 
    
 
 ## Installation

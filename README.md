@@ -14,7 +14,7 @@ Welcome to my deep learning project repository. This repository contains various
    - **Key Topics**: Neural Networks, ADAM Optimizer.
 
 ### 3. [Handwriting Detection](./Handwriting_Detection)
-   - **Description**: Detecting handwriting using convolutional layers.
+   - **Description**: Detecting handwriting using convolutional network.
    - **Technologies**: pytorch, torchvision, matplot, scikit-learn, numpy, wandb.
    - **Key Topics**: Convolutional layer, Hyperparameter tuning with wandb. 
    

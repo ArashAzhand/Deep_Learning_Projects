@@ -23,6 +23,9 @@ This project focuses on classifying handwritten symbols using a convolutional ne
    - Display a sample of images along with their labels for a quick visual inspection.
    - Plot the class distribution for training, validation, and test sets to ensure data balance.
 
+![image](https://github.com/user-attachments/assets/95d7e453-e3c2-4380-abb0-7df69bba3e2e)
+
+
 3. **CNN Model Design**:
    - Two CNN models are designed:
      - **Underfitting Model**: A simpler model with fewer layers to demonstrate underfitting.
